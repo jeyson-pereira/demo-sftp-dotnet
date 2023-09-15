@@ -1,0 +1,1 @@
+SFTP file send with ssh successfully and deleted in local
