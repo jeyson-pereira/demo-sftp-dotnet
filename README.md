@@ -2,7 +2,7 @@
 
 Laboratorio para envio de archivos planos a traves de SFTP usando .Net Core 6 y libreria SSH.NET
 
-##Pre-requisitos
+## Pre-requisitos
 
 -Remplazar valores en variables `sftpServer`,`username`.
 
